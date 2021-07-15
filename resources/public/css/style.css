@@ -1,0 +1,25 @@
+.inline {
+    display: inline-block;
+    border-radius: 10px;
+    float: left;
+    margin: 10px;
+    width: 800px;
+    height: 100%;
+    background: -webkit-linear-gradient(
+            30deg,
+            #f4f4db,
+            #deccb1
+    )
+}
+
+table {
+    border: 1px solid brown;
+}
+
+thead tr th{
+    border: 2px solid brown;
+}
+
+tr td {
+    border: 1px solid coral;
+}
